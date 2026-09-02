@@ -140,5 +140,8 @@ snakeGame/src/snakeGame/snakeGame.java
 
 <div align="center">
 
+---
+If you enjoyed this project, consider giving it a ⭐
+
 
 </div>
