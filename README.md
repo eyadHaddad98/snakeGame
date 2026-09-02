@@ -138,8 +138,6 @@ snakeGame/src/snakeGame/snakeGame.java
 - Additional food and bonus items
 - Automated unit tests
 
----
-
 <div align="center">
 
 
